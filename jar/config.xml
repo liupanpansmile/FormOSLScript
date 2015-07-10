@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<config>
+    <templateFilename>F:\JavaTestCode\FormOSLScript\script\template\demo.template.osl</templateFilename>
+    <destFilePath>F:\JavaTestCode\FormOSLScript\script\dest\</destFilePath>
+	<scriptCount>1000</scriptCount>
+</config>

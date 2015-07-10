@@ -1,0 +1,2 @@
+{"id":498,"name":"myscript","state":0,"troe":true,"steps":[{"id":0,"actions":[{"type":"navigate","url":"www.58.com"},{"type":"wait","value":200}]}]}
+
